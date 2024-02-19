@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-Run `npx json-server --watch <json file name>` for a web API. Navigate to `http://localhost:3000/creditcards`. 
+Run `npx json-server --watch <json file name>` for the API. Navigate to `http://localhost:3000/creditcards`. 
 
 ## Code scaffolding
 
